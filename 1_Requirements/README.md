@@ -16,17 +16,17 @@ It is done by monitoring the seating of the person and his requirement of heatin
 * WHY : To withstand with sever low temperatures.
 * HOW : By varinging the heater knob.
 # High Level Requirements
-High Level Requirements   Description	
+High Level Requirements |  Description	
 ------------------------|-------------
-HLR1                     |  Software used
-HLR2	                  |   Microcontroller
-HLR3	                  |   Switches
+HLR1                    |  Software used
+HLR2	                 |   Microcontroller
+HLR3	                 |   Switches
 HLR4                    |   Display	
 # Low Level Requirements
 Low Level Requirements| Description	
-----------------------|----------------
-       LLR1            | Code Blocks with AVR GCC compiler
-      LLR2             | ATmega328
-      LLR3            |  Push Button
-      LLR4             |  SimulIDE LCD and LED
+----------------------|-------------------------------------
+LLR1                  | Code Blocks with AVR GCC compiler      
+LLR2                  | ATmega328
+LLR3                  |  Push Button
+LLR4                  |  SimulIDE LCD and LED
                        
