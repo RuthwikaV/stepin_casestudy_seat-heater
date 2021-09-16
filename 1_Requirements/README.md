@@ -7,8 +7,14 @@ It is done by monitoring the seating of the person and his requirement of heatin
 * Modular Based Programs.
 * Easy to modify the temperature value.
 # Weakness
-
+* This application used in only very cold countries.
+* And the files contain delay header file.
+# Oppertunities
+* Heaters can be replaced by wind blowers and air conditioners.
+* Can be improvised with any harwares that read user input correctlly.
 # Threats
+* It would not work if harware connections go wrong. 
+
 # 4W's and 1'H
 * WHAT : Passanger Seat and Heat Monitoring System.
 * WHERE : Used in automotive industry.
@@ -22,6 +28,7 @@ HLR1                    |  Software used
 HLR2	                 |   Microcontroller
 HLR3	                 |   Switches
 HLR4                    |   Display	
+HLR5                        |  Temperature Sensor
 # Low Level Requirements
 Low Level Requirements| Description	
 ----------------------|-------------------------------------
